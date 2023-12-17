@@ -1,0 +1,4 @@
+D:/5sem/numerical/Lab3/cmake-build-release/CMakeFiles/Lab3.dir
+D:/5sem/numerical/Lab3/cmake-build-release/CMakeFiles/Lab3_example.dir
+D:/5sem/numerical/Lab3/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/5sem/numerical/Lab3/cmake-build-release/CMakeFiles/rebuild_cache.dir
