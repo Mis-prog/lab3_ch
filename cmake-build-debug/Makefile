@@ -165,6 +165,102 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/task1.obj: src/task1.cpp.obj
+.PHONY : src/task1.obj
+
+# target to build an object file
+src/task1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task1.cpp.obj
+.PHONY : src/task1.cpp.obj
+
+src/task1.i: src/task1.cpp.i
+.PHONY : src/task1.i
+
+# target to preprocess a source file
+src/task1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task1.cpp.i
+.PHONY : src/task1.cpp.i
+
+src/task1.s: src/task1.cpp.s
+.PHONY : src/task1.s
+
+# target to generate assembly for a file
+src/task1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task1.cpp.s
+.PHONY : src/task1.cpp.s
+
+src/task2.obj: src/task2.cpp.obj
+.PHONY : src/task2.obj
+
+# target to build an object file
+src/task2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task2.cpp.obj
+.PHONY : src/task2.cpp.obj
+
+src/task2.i: src/task2.cpp.i
+.PHONY : src/task2.i
+
+# target to preprocess a source file
+src/task2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task2.cpp.i
+.PHONY : src/task2.cpp.i
+
+src/task2.s: src/task2.cpp.s
+.PHONY : src/task2.s
+
+# target to generate assembly for a file
+src/task2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task2.cpp.s
+.PHONY : src/task2.cpp.s
+
+src/task3.obj: src/task3.cpp.obj
+.PHONY : src/task3.obj
+
+# target to build an object file
+src/task3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task3.cpp.obj
+.PHONY : src/task3.cpp.obj
+
+src/task3.i: src/task3.cpp.i
+.PHONY : src/task3.i
+
+# target to preprocess a source file
+src/task3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task3.cpp.i
+.PHONY : src/task3.cpp.i
+
+src/task3.s: src/task3.cpp.s
+.PHONY : src/task3.s
+
+# target to generate assembly for a file
+src/task3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task3.cpp.s
+.PHONY : src/task3.cpp.s
+
+src/task4.obj: src/task4.cpp.obj
+.PHONY : src/task4.obj
+
+# target to build an object file
+src/task4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task4.cpp.obj
+.PHONY : src/task4.cpp.obj
+
+src/task4.i: src/task4.cpp.i
+.PHONY : src/task4.i
+
+# target to preprocess a source file
+src/task4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task4.cpp.i
+.PHONY : src/task4.cpp.i
+
+src/task4.s: src/task4.cpp.s
+.PHONY : src/task4.s
+
+# target to generate assembly for a file
+src/task4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/src/task4.cpp.s
+.PHONY : src/task4.cpp.s
+
 src_example/CHMlab3.obj: src_example/CHMlab3.cpp.obj
 .PHONY : src_example/CHMlab3.obj
 
@@ -274,6 +370,18 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/task1.obj
+	@echo ... src/task1.i
+	@echo ... src/task1.s
+	@echo ... src/task2.obj
+	@echo ... src/task2.i
+	@echo ... src/task2.s
+	@echo ... src/task3.obj
+	@echo ... src/task3.i
+	@echo ... src/task3.s
+	@echo ... src/task4.obj
+	@echo ... src/task4.i
+	@echo ... src/task4.s
 	@echo ... src_example/CHMlab3.obj
 	@echo ... src_example/CHMlab3.i
 	@echo ... src_example/CHMlab3.s
