@@ -2,6 +2,6 @@
 
 int main(){
     SetConsoleOutputCP(CP_UTF8);
-    task1::main_task1();
+    task2::main_task2();
     return 0;
 }

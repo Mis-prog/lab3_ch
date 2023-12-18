@@ -1,0 +1,2 @@
+https://orion1401.gitbooks.io/numerical_analysys_python/content/lu_razlozhenie.html
+LU разложение на Python
