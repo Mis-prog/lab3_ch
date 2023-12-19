@@ -80,7 +80,7 @@ vector<double> task1::method_gaussa(vector<vector<double>> matrix_coef) {
 }
 
 void task1::main_task1() {
-    point_1();
+    //point_1();
     vector<double> coef = get_coef();
     point_2_3("line_task1.txt", coef);
     system("python D:\\5sem\\numerical\\Lab3\\src\\plot\\task1.py");
@@ -161,6 +161,7 @@ vector<double> task1::get_coef() {
         Matrix[i].push_back(y[i]); // = yi
     }
     vector<double> coef_inter = method_gaussa(Matrix);
+    cout << "Решение системы:\n";
     print_vector(coef_inter, true);
     return coef_inter;
 }
@@ -185,3 +186,5 @@ void task1::point_2_3(char *name, vector<double> &coef) {
     }
     outPlot.close();
 }
+
+

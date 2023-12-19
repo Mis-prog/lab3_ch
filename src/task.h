@@ -50,7 +50,20 @@ namespace task2 {
 
     void LU(vector<vector<double>> A, vector<vector<double>> &L, vector<vector<double>> &U, int n);
 
-    vector<double>  solution_LU(vector<vector<double>> &L,vector<vector<double>>& U,vector<double>& d);
+    vector<double> solution_LU(vector<vector<double>> &L, vector<vector<double>> &U, vector<double> &d);
 
     vector<double> get_coef();
+}
+
+
+namespace task4 {
+    const int N = 9;
+
+    void main_task4();
+
+    vector<double> FifthDiag(vector<vector<double>>& M, vector<double>& ansvec);
+
+    void set_rand_value(int n, vector<vector<double>> &M, vector<double> &b);
+
+    vector<double> check_get_vector(int n, const vector<vector<double>> &M, const vector<double> &ANS);
 }

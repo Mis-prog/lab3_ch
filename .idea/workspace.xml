@@ -22,31 +22,27 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97ffe899-779d-4fb6-818f-0bd649e5014d" name="Changes" comment="Первое задание сделано">
-      <change afterPath="$PROJECT_DIR$/data/CHM3_Report.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/LU.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/отчет.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plot/task2.py" afterDir="false" />
+    <list default="true" id="97ffe899-779d-4fb6-818f-0bd649e5014d" name="Changes" comment="Сделано второе задание">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3.dir/compiler_depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3.dir/src/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3.dir/src/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3.dir/src/main.cpp.obj.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3.dir/src/main.cpp.obj.d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3_example.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3_example.dir/compiler_depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3_example.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3_example.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3_example.dir/src_example/LU.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3_example.dir/src_example/LU.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj.d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab3.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab3_example.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab3_example.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/отчет.docx" beforeDir="false" afterPath="$PROJECT_DIR$/data/отчет.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/plot/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/plot/task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plot/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/plot/task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/task.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/task.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/task1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/task4.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +100,7 @@
     "CMake Application.Lab3.executor": "Run",
     "CMake Application.Lab3_example.executor": "Run",
     "Python.task1.executor": "Run",
+    "Python.task2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -112,7 +109,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/5sem/numerical/Lab3/src/plot/task2.py",
+    "last_opened_file_path": "D:/5sem/numerical/Lab3/src_example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -216,7 +213,7 @@
       <workItem from="1702817144180" duration="632000" />
       <workItem from="1702817795293" duration="61000" />
       <workItem from="1702823102184" duration="6222000" />
-      <workItem from="1702829560053" duration="36355000" />
+      <workItem from="1702829560053" duration="48586000" />
     </task>
     <task id="LOCAL-00001" summary=" Первый коммит">
       <option name="closed" value="true" />
@@ -234,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702882362244</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Сделано второе задание">
+      <option name="closed" value="true" />
+      <created>1702918983130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702918983130</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +265,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value=" Первый коммит" />
     <MESSAGE value="Первое задание сделано" />
-    <option name="LAST_COMMIT_MESSAGE" value="Первое задание сделано" />
+    <MESSAGE value="Сделано второе задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделано второе задание" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

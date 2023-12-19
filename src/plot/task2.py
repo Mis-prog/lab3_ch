@@ -8,7 +8,7 @@ def plot_point():
     plt.plot(line['X'], line['Y'], color='pink',label='Прямая')
     plt.scatter(point['X'], point['Y'],color='dimgray' ,label='Точки')
     plt.grid(True)
-    plt.title('Рещение методом разложения LU')
+    plt.title('Решение методом разложения LU')
     plt.xlabel('Ось X')
     plt.ylabel('Ось Y')
     plt.legend()
