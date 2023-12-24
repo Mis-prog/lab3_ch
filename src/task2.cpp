@@ -6,7 +6,7 @@ void task2::main_task2() {
     //point_1();
     vector<double> coef = get_coef();
     task1::point_2_3("line_task2.txt",coef);
-    system("python D:\\5sem\\numerical\\Lab3\\src\\plot\\task2.py");
+    system("python D:\\5sem\\numerical\\practice\\Lab3\\src\\plot\\task2.py");
 }
 
 void task2::point_1() {

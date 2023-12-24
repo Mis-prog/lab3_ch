@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 233.11799.37\bin\cmake\win\x64\bin\cmake.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\5sem\numerical\Lab3
+CMAKE_SOURCE_DIR = D:\5sem\numerical\practice\labs\Lab3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\5sem\numerical\Lab3\cmake-build-debug
+CMAKE_BINARY_DIR = D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lab3.dir/depend.make
@@ -69,74 +69,74 @@ include CMakeFiles/Lab3.dir/progress.make
 include CMakeFiles/Lab3.dir/flags.make
 
 CMakeFiles/Lab3.dir/src/main.cpp.obj: CMakeFiles/Lab3.dir/flags.make
-CMakeFiles/Lab3.dir/src/main.cpp.obj: D:/5sem/numerical/Lab3/src/main.cpp
+CMakeFiles/Lab3.dir/src/main.cpp.obj: D:/5sem/numerical/practice/labs/Lab3/src/main.cpp
 CMakeFiles/Lab3.dir/src/main.cpp.obj: CMakeFiles/Lab3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab3.dir/src/main.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3.dir/src/main.cpp.obj -MF CMakeFiles\Lab3.dir\src\main.cpp.obj.d -o CMakeFiles\Lab3.dir\src\main.cpp.obj -c D:\5sem\numerical\Lab3\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab3.dir/src/main.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3.dir/src/main.cpp.obj -MF CMakeFiles\Lab3.dir\src\main.cpp.obj.d -o CMakeFiles\Lab3.dir\src\main.cpp.obj -c D:\5sem\numerical\practice\labs\Lab3\src\main.cpp
 
 CMakeFiles/Lab3.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab3.dir/src/main.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\Lab3\src\main.cpp > CMakeFiles\Lab3.dir\src\main.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\practice\labs\Lab3\src\main.cpp > CMakeFiles\Lab3.dir\src\main.cpp.i
 
 CMakeFiles/Lab3.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab3.dir/src/main.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\Lab3\src\main.cpp -o CMakeFiles\Lab3.dir\src\main.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\practice\labs\Lab3\src\main.cpp -o CMakeFiles\Lab3.dir\src\main.cpp.s
 
 CMakeFiles/Lab3.dir/src/task1.cpp.obj: CMakeFiles/Lab3.dir/flags.make
-CMakeFiles/Lab3.dir/src/task1.cpp.obj: D:/5sem/numerical/Lab3/src/task1.cpp
+CMakeFiles/Lab3.dir/src/task1.cpp.obj: D:/5sem/numerical/practice/labs/Lab3/src/task1.cpp
 CMakeFiles/Lab3.dir/src/task1.cpp.obj: CMakeFiles/Lab3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab3.dir/src/task1.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3.dir/src/task1.cpp.obj -MF CMakeFiles\Lab3.dir\src\task1.cpp.obj.d -o CMakeFiles\Lab3.dir\src\task1.cpp.obj -c D:\5sem\numerical\Lab3\src\task1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab3.dir/src/task1.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3.dir/src/task1.cpp.obj -MF CMakeFiles\Lab3.dir\src\task1.cpp.obj.d -o CMakeFiles\Lab3.dir\src\task1.cpp.obj -c D:\5sem\numerical\practice\labs\Lab3\src\task1.cpp
 
 CMakeFiles/Lab3.dir/src/task1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab3.dir/src/task1.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\Lab3\src\task1.cpp > CMakeFiles\Lab3.dir\src\task1.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\practice\labs\Lab3\src\task1.cpp > CMakeFiles\Lab3.dir\src\task1.cpp.i
 
 CMakeFiles/Lab3.dir/src/task1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab3.dir/src/task1.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\Lab3\src\task1.cpp -o CMakeFiles\Lab3.dir\src\task1.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\practice\labs\Lab3\src\task1.cpp -o CMakeFiles\Lab3.dir\src\task1.cpp.s
 
 CMakeFiles/Lab3.dir/src/task2.cpp.obj: CMakeFiles/Lab3.dir/flags.make
-CMakeFiles/Lab3.dir/src/task2.cpp.obj: D:/5sem/numerical/Lab3/src/task2.cpp
+CMakeFiles/Lab3.dir/src/task2.cpp.obj: D:/5sem/numerical/practice/labs/Lab3/src/task2.cpp
 CMakeFiles/Lab3.dir/src/task2.cpp.obj: CMakeFiles/Lab3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab3.dir/src/task2.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3.dir/src/task2.cpp.obj -MF CMakeFiles\Lab3.dir\src\task2.cpp.obj.d -o CMakeFiles\Lab3.dir\src\task2.cpp.obj -c D:\5sem\numerical\Lab3\src\task2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab3.dir/src/task2.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3.dir/src/task2.cpp.obj -MF CMakeFiles\Lab3.dir\src\task2.cpp.obj.d -o CMakeFiles\Lab3.dir\src\task2.cpp.obj -c D:\5sem\numerical\practice\labs\Lab3\src\task2.cpp
 
 CMakeFiles/Lab3.dir/src/task2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab3.dir/src/task2.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\Lab3\src\task2.cpp > CMakeFiles\Lab3.dir\src\task2.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\practice\labs\Lab3\src\task2.cpp > CMakeFiles\Lab3.dir\src\task2.cpp.i
 
 CMakeFiles/Lab3.dir/src/task2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab3.dir/src/task2.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\Lab3\src\task2.cpp -o CMakeFiles\Lab3.dir\src\task2.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\practice\labs\Lab3\src\task2.cpp -o CMakeFiles\Lab3.dir\src\task2.cpp.s
 
 CMakeFiles/Lab3.dir/src/task3.cpp.obj: CMakeFiles/Lab3.dir/flags.make
-CMakeFiles/Lab3.dir/src/task3.cpp.obj: D:/5sem/numerical/Lab3/src/task3.cpp
+CMakeFiles/Lab3.dir/src/task3.cpp.obj: D:/5sem/numerical/practice/labs/Lab3/src/task3.cpp
 CMakeFiles/Lab3.dir/src/task3.cpp.obj: CMakeFiles/Lab3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lab3.dir/src/task3.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3.dir/src/task3.cpp.obj -MF CMakeFiles\Lab3.dir\src\task3.cpp.obj.d -o CMakeFiles\Lab3.dir\src\task3.cpp.obj -c D:\5sem\numerical\Lab3\src\task3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lab3.dir/src/task3.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3.dir/src/task3.cpp.obj -MF CMakeFiles\Lab3.dir\src\task3.cpp.obj.d -o CMakeFiles\Lab3.dir\src\task3.cpp.obj -c D:\5sem\numerical\practice\labs\Lab3\src\task3.cpp
 
 CMakeFiles/Lab3.dir/src/task3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab3.dir/src/task3.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\Lab3\src\task3.cpp > CMakeFiles\Lab3.dir\src\task3.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\practice\labs\Lab3\src\task3.cpp > CMakeFiles\Lab3.dir\src\task3.cpp.i
 
 CMakeFiles/Lab3.dir/src/task3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab3.dir/src/task3.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\Lab3\src\task3.cpp -o CMakeFiles\Lab3.dir\src\task3.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\practice\labs\Lab3\src\task3.cpp -o CMakeFiles\Lab3.dir\src\task3.cpp.s
 
 CMakeFiles/Lab3.dir/src/task4.cpp.obj: CMakeFiles/Lab3.dir/flags.make
-CMakeFiles/Lab3.dir/src/task4.cpp.obj: D:/5sem/numerical/Lab3/src/task4.cpp
+CMakeFiles/Lab3.dir/src/task4.cpp.obj: D:/5sem/numerical/practice/labs/Lab3/src/task4.cpp
 CMakeFiles/Lab3.dir/src/task4.cpp.obj: CMakeFiles/Lab3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lab3.dir/src/task4.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3.dir/src/task4.cpp.obj -MF CMakeFiles\Lab3.dir\src\task4.cpp.obj.d -o CMakeFiles\Lab3.dir\src\task4.cpp.obj -c D:\5sem\numerical\Lab3\src\task4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lab3.dir/src/task4.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3.dir/src/task4.cpp.obj -MF CMakeFiles\Lab3.dir\src\task4.cpp.obj.d -o CMakeFiles\Lab3.dir\src\task4.cpp.obj -c D:\5sem\numerical\practice\labs\Lab3\src\task4.cpp
 
 CMakeFiles/Lab3.dir/src/task4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab3.dir/src/task4.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\Lab3\src\task4.cpp > CMakeFiles\Lab3.dir\src\task4.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\practice\labs\Lab3\src\task4.cpp > CMakeFiles\Lab3.dir\src\task4.cpp.i
 
 CMakeFiles/Lab3.dir/src/task4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab3.dir/src/task4.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\Lab3\src\task4.cpp -o CMakeFiles\Lab3.dir\src\task4.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\practice\labs\Lab3\src\task4.cpp -o CMakeFiles\Lab3.dir\src\task4.cpp.s
 
 # Object files for target Lab3
 Lab3_OBJECTS = \
@@ -158,7 +158,7 @@ Lab3.exe: CMakeFiles/Lab3.dir/build.make
 Lab3.exe: CMakeFiles/Lab3.dir/linkLibs.rsp
 Lab3.exe: CMakeFiles/Lab3.dir/objects1.rsp
 Lab3.exe: CMakeFiles/Lab3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Lab3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Lab3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lab3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -170,6 +170,6 @@ CMakeFiles/Lab3.dir/clean:
 .PHONY : CMakeFiles/Lab3.dir/clean
 
 CMakeFiles/Lab3.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\5sem\numerical\Lab3 D:\5sem\numerical\Lab3 D:\5sem\numerical\Lab3\cmake-build-debug D:\5sem\numerical\Lab3\cmake-build-debug D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles\Lab3.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\5sem\numerical\practice\labs\Lab3 D:\5sem\numerical\practice\labs\Lab3 D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles\Lab3.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Lab3.dir/depend
 

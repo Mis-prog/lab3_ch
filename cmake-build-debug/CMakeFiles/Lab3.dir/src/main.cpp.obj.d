@@ -1,5 +1,6 @@
-CMakeFiles/Lab3.dir/src/main.cpp.obj: D:\5sem\numerical\Lab3\src\main.cpp \
- D:\5sem\numerical\Lab3\src\task.h \
+CMakeFiles/Lab3.dir/src/main.cpp.obj: \
+ D:\5sem\numerical\practice\labs\Lab3\src\main.cpp \
+ D:\5sem\numerical\practice\labs\Lab3\src\task.h \
  C:/Program\ Files/JetBrains/CLion\ 233.11799.37/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
  C:/Program\ Files/JetBrains/CLion\ 233.11799.37/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Program\ Files/JetBrains/CLion\ 233.11799.37/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -435,4 +436,5 @@ CMakeFiles/Lab3.dir/src/main.cpp.obj: D:\5sem\numerical\Lab3\src\main.cpp \
  C:/Program\ Files/JetBrains/CLion\ 233.11799.37/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
  C:/Program\ Files/JetBrains/CLion\ 233.11799.37/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
  C:/Program\ Files/JetBrains/CLion\ 233.11799.37/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
- C:/Program\ Files/JetBrains/CLion\ 233.11799.37/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h
+ C:/Program\ Files/JetBrains/CLion\ 233.11799.37/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+ C:/Program\ Files/JetBrains/CLion\ 233.11799.37/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/math.h

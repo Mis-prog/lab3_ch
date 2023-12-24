@@ -4,6 +4,9 @@
 #include <iomanip>
 #include <fstream>
 #include <random>
+#include <math.h>
+
+void Task3();
 
 using namespace std;
 

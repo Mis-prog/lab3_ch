@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/5sem/numerical/Lab3/cmake-build-debug"/>
+				<Option working_dir="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Lab3">
-				<Option output="D:/5sem/numerical/Lab3/cmake-build-debug/Lab3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/5sem/numerical/Lab3/cmake-build-debug"/>
+				<Option output="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Lab3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 233.11799.37/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Lab3/fast">
-				<Option output="D:/5sem/numerical/Lab3/cmake-build-debug/Lab3.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/5sem/numerical/Lab3/cmake-build-debug"/>
+				<Option output="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Lab3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,15 +55,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 233.11799.37/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Lab3_example">
-				<Option output="D:/5sem/numerical/Lab3/cmake-build-debug/Lab3_example.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/5sem/numerical/Lab3/cmake-build-debug"/>
+				<Option output="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Lab3_example.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,15 +77,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 233.11799.37/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3_example"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3_example"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Lab3_example/fast">
-				<Option output="D:/5sem/numerical/Lab3/cmake-build-debug/Lab3_example.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/5sem/numerical/Lab3/cmake-build-debug"/>
+				<Option output="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Lab3_example.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -99,73 +99,73 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 233.11799.37/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3_example/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab3_example/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/5sem/numerical/Lab3/cmake-build-debug"/>
+				<Option working_dir="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/5sem/numerical/Lab3/cmake-build-debug"/>
+				<Option working_dir="D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.37/bin/mingw/bin/mingw32-make.exe -f &quot;D:/5sem/numerical/practice/labs/Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/5sem/numerical/Lab3/src/main.cpp">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src/main.cpp">
 			<Option target="Lab3"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src/task.h">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src/task.h">
 			<Option target="Lab3"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src/task1.cpp">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src/task1.cpp">
 			<Option target="Lab3"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src/task2.cpp">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src/task2.cpp">
 			<Option target="Lab3"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src/task3.cpp">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src/task3.cpp">
 			<Option target="Lab3"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src/task4.cpp">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src/task4.cpp">
 			<Option target="Lab3"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src_example/CHMlab3.cpp">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src_example/CHMlab3.cpp">
 			<Option target="Lab3_example"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src_example/Gauss.cpp">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src_example/Gauss.cpp">
 			<Option target="Lab3_example"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src_example/Gauss.h">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src_example/Gauss.h">
 			<Option target="Lab3_example"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src_example/Khaletski.cpp">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src_example/Khaletski.cpp">
 			<Option target="Lab3_example"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src_example/Khaletski.h">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src_example/Khaletski.h">
 			<Option target="Lab3_example"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src_example/LU.cpp">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src_example/LU.cpp">
 			<Option target="Lab3_example"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/src_example/LU.h">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/src_example/LU.h">
 			<Option target="Lab3_example"/>
 		</Unit>
-		<Unit filename="D:/5sem/numerical/Lab3/CMakeLists.txt">
+		<Unit filename="D:/5sem/numerical/practice/labs/Lab3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

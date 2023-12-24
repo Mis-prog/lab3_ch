@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 233.11799.37\bin\cmake\win\x64\bin\cmake.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\5sem\numerical\Lab3
+CMAKE_SOURCE_DIR = D:\5sem\numerical\practice\labs\Lab3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\5sem\numerical\Lab3\cmake-build-debug
+CMAKE_BINARY_DIR = D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lab3_example.dir/depend.make
@@ -69,60 +69,60 @@ include CMakeFiles/Lab3_example.dir/progress.make
 include CMakeFiles/Lab3_example.dir/flags.make
 
 CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj: CMakeFiles/Lab3_example.dir/flags.make
-CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj: D:/5sem/numerical/Lab3/src_example/CHMlab3.cpp
+CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj: D:/5sem/numerical/practice/labs/Lab3/src_example/CHMlab3.cpp
 CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj: CMakeFiles/Lab3_example.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj -MF CMakeFiles\Lab3_example.dir\src_example\CHMlab3.cpp.obj.d -o CMakeFiles\Lab3_example.dir\src_example\CHMlab3.cpp.obj -c D:\5sem\numerical\Lab3\src_example\CHMlab3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.obj -MF CMakeFiles\Lab3_example.dir\src_example\CHMlab3.cpp.obj.d -o CMakeFiles\Lab3_example.dir\src_example\CHMlab3.cpp.obj -c D:\5sem\numerical\practice\labs\Lab3\src_example\CHMlab3.cpp
 
 CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\Lab3\src_example\CHMlab3.cpp > CMakeFiles\Lab3_example.dir\src_example\CHMlab3.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\practice\labs\Lab3\src_example\CHMlab3.cpp > CMakeFiles\Lab3_example.dir\src_example\CHMlab3.cpp.i
 
 CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab3_example.dir/src_example/CHMlab3.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\Lab3\src_example\CHMlab3.cpp -o CMakeFiles\Lab3_example.dir\src_example\CHMlab3.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\practice\labs\Lab3\src_example\CHMlab3.cpp -o CMakeFiles\Lab3_example.dir\src_example\CHMlab3.cpp.s
 
 CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.obj: CMakeFiles/Lab3_example.dir/flags.make
-CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.obj: D:/5sem/numerical/Lab3/src_example/Gauss.cpp
+CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.obj: D:/5sem/numerical/practice/labs/Lab3/src_example/Gauss.cpp
 CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.obj: CMakeFiles/Lab3_example.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.obj -MF CMakeFiles\Lab3_example.dir\src_example\Gauss.cpp.obj.d -o CMakeFiles\Lab3_example.dir\src_example\Gauss.cpp.obj -c D:\5sem\numerical\Lab3\src_example\Gauss.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.obj -MF CMakeFiles\Lab3_example.dir\src_example\Gauss.cpp.obj.d -o CMakeFiles\Lab3_example.dir\src_example\Gauss.cpp.obj -c D:\5sem\numerical\practice\labs\Lab3\src_example\Gauss.cpp
 
 CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\Lab3\src_example\Gauss.cpp > CMakeFiles\Lab3_example.dir\src_example\Gauss.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\practice\labs\Lab3\src_example\Gauss.cpp > CMakeFiles\Lab3_example.dir\src_example\Gauss.cpp.i
 
 CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab3_example.dir/src_example/Gauss.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\Lab3\src_example\Gauss.cpp -o CMakeFiles\Lab3_example.dir\src_example\Gauss.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\practice\labs\Lab3\src_example\Gauss.cpp -o CMakeFiles\Lab3_example.dir\src_example\Gauss.cpp.s
 
 CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.obj: CMakeFiles/Lab3_example.dir/flags.make
-CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.obj: D:/5sem/numerical/Lab3/src_example/Khaletski.cpp
+CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.obj: D:/5sem/numerical/practice/labs/Lab3/src_example/Khaletski.cpp
 CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.obj: CMakeFiles/Lab3_example.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.obj -MF CMakeFiles\Lab3_example.dir\src_example\Khaletski.cpp.obj.d -o CMakeFiles\Lab3_example.dir\src_example\Khaletski.cpp.obj -c D:\5sem\numerical\Lab3\src_example\Khaletski.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.obj -MF CMakeFiles\Lab3_example.dir\src_example\Khaletski.cpp.obj.d -o CMakeFiles\Lab3_example.dir\src_example\Khaletski.cpp.obj -c D:\5sem\numerical\practice\labs\Lab3\src_example\Khaletski.cpp
 
 CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\Lab3\src_example\Khaletski.cpp > CMakeFiles\Lab3_example.dir\src_example\Khaletski.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\practice\labs\Lab3\src_example\Khaletski.cpp > CMakeFiles\Lab3_example.dir\src_example\Khaletski.cpp.i
 
 CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab3_example.dir/src_example/Khaletski.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\Lab3\src_example\Khaletski.cpp -o CMakeFiles\Lab3_example.dir\src_example\Khaletski.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\practice\labs\Lab3\src_example\Khaletski.cpp -o CMakeFiles\Lab3_example.dir\src_example\Khaletski.cpp.s
 
 CMakeFiles/Lab3_example.dir/src_example/LU.cpp.obj: CMakeFiles/Lab3_example.dir/flags.make
-CMakeFiles/Lab3_example.dir/src_example/LU.cpp.obj: D:/5sem/numerical/Lab3/src_example/LU.cpp
+CMakeFiles/Lab3_example.dir/src_example/LU.cpp.obj: D:/5sem/numerical/practice/labs/Lab3/src_example/LU.cpp
 CMakeFiles/Lab3_example.dir/src_example/LU.cpp.obj: CMakeFiles/Lab3_example.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lab3_example.dir/src_example/LU.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3_example.dir/src_example/LU.cpp.obj -MF CMakeFiles\Lab3_example.dir\src_example\LU.cpp.obj.d -o CMakeFiles\Lab3_example.dir\src_example\LU.cpp.obj -c D:\5sem\numerical\Lab3\src_example\LU.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lab3_example.dir/src_example/LU.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab3_example.dir/src_example/LU.cpp.obj -MF CMakeFiles\Lab3_example.dir\src_example\LU.cpp.obj.d -o CMakeFiles\Lab3_example.dir\src_example\LU.cpp.obj -c D:\5sem\numerical\practice\labs\Lab3\src_example\LU.cpp
 
 CMakeFiles/Lab3_example.dir/src_example/LU.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab3_example.dir/src_example/LU.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\Lab3\src_example\LU.cpp > CMakeFiles\Lab3_example.dir\src_example\LU.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\5sem\numerical\practice\labs\Lab3\src_example\LU.cpp > CMakeFiles\Lab3_example.dir\src_example\LU.cpp.i
 
 CMakeFiles/Lab3_example.dir/src_example/LU.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab3_example.dir/src_example/LU.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\Lab3\src_example\LU.cpp -o CMakeFiles\Lab3_example.dir\src_example\LU.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.37\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\5sem\numerical\practice\labs\Lab3\src_example\LU.cpp -o CMakeFiles\Lab3_example.dir\src_example\LU.cpp.s
 
 # Object files for target Lab3_example
 Lab3_example_OBJECTS = \
@@ -142,7 +142,7 @@ Lab3_example.exe: CMakeFiles/Lab3_example.dir/build.make
 Lab3_example.exe: CMakeFiles/Lab3_example.dir/linkLibs.rsp
 Lab3_example.exe: CMakeFiles/Lab3_example.dir/objects1.rsp
 Lab3_example.exe: CMakeFiles/Lab3_example.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Lab3_example.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Lab3_example.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lab3_example.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -154,6 +154,6 @@ CMakeFiles/Lab3_example.dir/clean:
 .PHONY : CMakeFiles/Lab3_example.dir/clean
 
 CMakeFiles/Lab3_example.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\5sem\numerical\Lab3 D:\5sem\numerical\Lab3 D:\5sem\numerical\Lab3\cmake-build-debug D:\5sem\numerical\Lab3\cmake-build-debug D:\5sem\numerical\Lab3\cmake-build-debug\CMakeFiles\Lab3_example.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\5sem\numerical\practice\labs\Lab3 D:\5sem\numerical\practice\labs\Lab3 D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug D:\5sem\numerical\practice\labs\Lab3\cmake-build-debug\CMakeFiles\Lab3_example.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Lab3_example.dir/depend
 
